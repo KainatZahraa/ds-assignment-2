@@ -14,7 +14,7 @@ ds-assignment-2/
 
 ---
 
-## 📋 Assignment Overview
+## Assignment Overview
 
 A forensic data analysis investigation for the Media Accountability Network (MAN) into systematic bias, editorial influence, and data manipulation in Pakistan's media ecosystem using a synthetic dataset of news outlets.
 
@@ -28,7 +28,7 @@ Key areas of investigation:
 
 ---
 
-## 🔧 Libraries Used
+## Libraries Used
 
 - `pandas` – Data manipulation
 - `numpy` – Numerical operations
@@ -36,7 +36,7 @@ Key areas of investigation:
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository:
 ```bash
