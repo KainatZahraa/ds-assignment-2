@@ -40,8 +40,8 @@ Key areas of investigation:
 
 1. Clone the repository:
 ```bash
-   git clone https://github.com/KainatZahraa/pakistan-media-bias-analysis.git
-   cd pakistan-media-bias-analysis
+   git clone https://github.com/KainatZahraa/ds-assignment-2.git
+   cd ds-assignment-2
 ```
 
 2. Install dependencies:
